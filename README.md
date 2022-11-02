@@ -1,4 +1,4 @@
-# JS_Task
+# JS_React_Task
 
 The application is the result of an assassemnt of an academic research institution. The used data is property of the institution: https://www.oeaw.ac.at/oesterreichische-akademie-der-wissenschaften 
 
